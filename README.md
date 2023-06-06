@@ -43,3 +43,8 @@
 ​ 白洁，来自内蒙古呼和浩特，本科在内蒙古工业大学就读。现在读的专业是沉积地质学。我的爱好是打羽毛球和看小说。希望大家多多指教。
 
 ​ My name is Bai Jie. I come from Hohhot, Inner Mongolia. I studied in Inner Mongolia University of Technology as an undergraduate. I’m majoring in sedimentary geology. My hobbies are playing badminton and reading novels. I look forward to your comments.
+
+
+曹智松：
+成都理工大学软件工程研究生一年级，擅长语言C，C++，Python，Java，研究兴趣计算机视觉，地学大数据。
+Zhisong Cao: A first-year graduate student majoring in software engineering at Chengdu University of Technology, proficient in programming languages C, C++, Python, Java, with research interests in computer vision and big geological data.
